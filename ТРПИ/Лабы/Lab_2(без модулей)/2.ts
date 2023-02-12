@@ -49,10 +49,7 @@ abstract class abstractShoes{
         this._size = size;
         this._cost = cost;
         this._discount = discount;
-        this._finalCost = cost*discount;
-
-        
-        
+        this._finalCost = cost*discount;   
     }
     static poolId = new Array();//пул хранения id 
     //служебные методы
