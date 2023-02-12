@@ -1,8 +1,8 @@
 abstract class abstractShoes{
     //поля объекта
-    protected _id        : number;
-    protected  _color    : string;
-    protected _size      : number;
+    protected readonly _id        : number;
+    protected  readonly _color    : string;
+    protected readonly _size      : number;
     protected _cost      : number;
     protected _discount  : number;
     protected _finalCost : number;
@@ -202,6 +202,8 @@ let boots2 = new Boots("s", 9, 120, 0.2);
 let sneakers1 = new Sneakers("s", 20, 150, 0.2);
 let sneakers2 = new Sneakers();
 let roducts = new products();
+
+//sandals2.id = 123;
 
 roducts.shoes.add(boots2);
 roducts.shoes.add(boots1);
