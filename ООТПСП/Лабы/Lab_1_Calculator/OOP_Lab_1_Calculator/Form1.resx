@@ -1,0 +1,1218 @@
+﻿<root>
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="&gt;&gt;splitContainer1.Panel2.Parent" xml:space="preserve">
+    <value>splitContainer1</value>
+  </data>
+  <data name="&gt;&gt;labelRussia.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <assembly alias="mscorlib" name="mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
+  <data name="labelUKShoes.TabIndex" type="System.Int32, mscorlib">
+    <value>4</value>
+  </data>
+  <data name="textBoxEurope.TabIndex" type="System.Int32, mscorlib">
+    <value>13</value>
+  </data>
+  <data name="&gt;&gt;labelEurope.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;splitContainer1.Panel1.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="tabControlCalculator.TabIndex" type="System.Int32, mscorlib">
+    <value>0</value>
+  </data>
+  <data name="textBoxRussia.TabIndex" type="System.Int32, mscorlib">
+    <value>9</value>
+  </data>
+  <data name="labelUSAClothes.TabIndex" type="System.Int32, mscorlib">
+    <value>7</value>
+  </data>
+  <data name="&gt;&gt;labelUK.ZOrder" xml:space="preserve">
+    <value>3</value>
+  </data>
+  <assembly alias="System.Drawing" name="System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+  <data name="button2.Location" type="System.Drawing.Point, System.Drawing">
+    <value>1, 360</value>
+  </data>
+  <data name="&gt;&gt;buttonClearShoes.Parent" xml:space="preserve">
+    <value>splitContainerShoes.Panel1</value>
+  </data>
+  <data name="&gt;&gt;labelUKClothes.Parent" xml:space="preserve">
+    <value>splitContainerClothes.Panel2</value>
+  </data>
+  <data name="&gt;&gt;label4.Parent" xml:space="preserve">
+    <value>splitContainerClothes.Panel2</value>
+  </data>
+  <data name="&gt;&gt;textBox2.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="buttonCalculateShoes.TabIndex" type="System.Int32, mscorlib">
+    <value>2</value>
+  </data>
+  <data name="labelRussiaEuropeOut.TabIndex" type="System.Int32, mscorlib">
+    <value>3</value>
+  </data>
+  <data name="&gt;&gt;textBox4.Parent" xml:space="preserve">
+    <value>splitContainerClothes.Panel2</value>
+  </data>
+  <data name="&gt;&gt;buttonClear.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="buttonClearShoes.Location" type="System.Drawing.Point, System.Drawing">
+    <value>95, 359</value>
+  </data>
+  <data name="textBox4.Location" type="System.Drawing.Point, System.Drawing">
+    <value>151, 13</value>
+  </data>
+  <data name="&gt;&gt;splitContainerShoes.Panel2.Type" xml:space="preserve">
+    <value>System.Windows.Forms.SplitterPanel, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="labelUK.TabIndex" type="System.Int32, mscorlib">
+    <value>2</value>
+  </data>
+  <data name="&gt;&gt;textBoxRussiaEurope.Name" xml:space="preserve">
+    <value>textBoxRussiaEurope</value>
+  </data>
+  <data name="&gt;&gt;button1.Parent" xml:space="preserve">
+    <value>splitContainerClothes.Panel1</value>
+  </data>
+  <data name="&gt;&gt;buttonCalculateShoes.Name" xml:space="preserve">
+    <value>buttonCalculateShoes</value>
+  </data>
+  <data name="labelUSAClothes.Location" type="System.Drawing.Point, System.Drawing">
+    <value>21, 43</value>
+  </data>
+  <data name="&gt;&gt;textBoxChestGirth.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;textBoxWaistCircumference.Name" xml:space="preserve">
+    <value>textBoxWaistCircumference</value>
+  </data>
+  <data name="labelEurope.TabIndex" type="System.Int32, mscorlib">
+    <value>12</value>
+  </data>
+  <data name="&gt;&gt;labelChestGirth.Parent" xml:space="preserve">
+    <value>splitContainerClothes.Panel1</value>
+  </data>
+  <data name="&gt;&gt;textBox4.ZOrder" xml:space="preserve">
+    <value>2</value>
+  </data>
+  <data name="&gt;&gt;textBoxUSAClothes.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="buttonClearShoes.TabIndex" type="System.Int32, mscorlib">
+    <value>3</value>
+  </data>
+  <data name="&gt;&gt;splitContainerShoes.Panel2.Name" xml:space="preserve">
+    <value>splitContainerShoes.Panel2</value>
+  </data>
+  <data name="&gt;&gt;splitContainerClothes.Panel2.Type" xml:space="preserve">
+    <value>System.Windows.Forms.SplitterPanel, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;textBox2.Parent" xml:space="preserve">
+    <value>splitContainerClothes.Panel2</value>
+  </data>
+  <data name="&gt;&gt;labelUSAClothes.Parent" xml:space="preserve">
+    <value>splitContainerClothes.Panel2</value>
+  </data>
+  <data name="&gt;&gt;labelUSA.ZOrder" xml:space="preserve">
+    <value>4</value>
+  </data>
+  <data name="&gt;&gt;radioButtonWoman.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="labelUSA.Location" type="System.Drawing.Point, System.Drawing">
+    <value>30, 60</value>
+  </data>
+  <data name="textBoxEurope.Location" type="System.Drawing.Point, System.Drawing">
+    <value>151, 103</value>
+  </data>
+  <data name="&gt;&gt;textBox3.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="tabPage2.Text" xml:space="preserve">
+    <value>tabPage2</value>
+  </data>
+  <data name="&gt;&gt;buttonClearClothes.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;buttonClearShoes.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;labelChestGirth.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="textBoxInputFootSize.TabIndex" type="System.Int32, mscorlib">
+    <value>1</value>
+  </data>
+  <data name="&gt;&gt;button1.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="button2.TabIndex" type="System.Int32, mscorlib">
+    <value>4</value>
+  </data>
+  <data name="&gt;&gt;labelEuropeClothSize.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;textBoxUK.Parent" xml:space="preserve">
+    <value>splitContainerShoes.Panel2</value>
+  </data>
+  <data name="$this.ClientSize" type="System.Drawing.Size, System.Drawing">
+    <value>800, 450</value>
+  </data>
+  <data name="radioButtonWoman.TabIndex" type="System.Int32, mscorlib">
+    <value>10</value>
+  </data>
+  <data name="&gt;&gt;button2.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="labelUSAShoes.TabIndex" type="System.Int32, mscorlib">
+    <value>5</value>
+  </data>
+  <data name="&gt;&gt;labelSex.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="tabControlCalculator.Location" type="System.Drawing.Point, System.Drawing">
+    <value>185, 69</value>
+  </data>
+  <data name="tabPage2.TabIndex" type="System.Int32, mscorlib">
+    <value>1</value>
+  </data>
+  <data name="textBox.TabIndex" type="System.Int32, mscorlib">
+    <value>1</value>
+  </data>
+  <data name="&gt;&gt;buttonClear.Parent" xml:space="preserve">
+    <value>splitContainerShoes.Panel1</value>
+  </data>
+  <data name="textBoxChestGirth.Location" type="System.Drawing.Point, System.Drawing">
+    <value>12, 48</value>
+  </data>
+  <data name="buttonCalculate.TabIndex" type="System.Int32, mscorlib">
+    <value>2</value>
+  </data>
+  <data name="&gt;&gt;labelSex.Parent" xml:space="preserve">
+    <value>splitContainerClothes.Panel1</value>
+  </data>
+  <data name="&gt;&gt;labelUK.Name" xml:space="preserve">
+    <value>labelUK</value>
+  </data>
+  <data name="&gt;&gt;labelUSAClothSize.Parent" xml:space="preserve">
+    <value>splitContainerClothes.Panel2</value>
+  </data>
+  <data name="&gt;&gt;textBox.Parent" xml:space="preserve">
+    <value>splitContainerClothes.Panel1</value>
+  </data>
+  <data name="textBox2.TabIndex" type="System.Int32, mscorlib">
+    <value>11</value>
+  </data>
+  <data name="labelWaistCircumference.Location" type="System.Drawing.Point, System.Drawing">
+    <value>12, 96</value>
+  </data>
+  <data name="&gt;&gt;textBoxInputFootSize.ZOrder" xml:space="preserve">
+    <value>2</value>
+  </data>
+  <data name="button1.TabIndex" type="System.Int32, mscorlib">
+    <value>5</value>
+  </data>
+  <data name="&gt;&gt;tabPageClothes.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TabPage, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;splitContainerShoes.Panel1.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="&gt;&gt;textBoxWaistCircumference.ZOrder" xml:space="preserve">
+    <value>2</value>
+  </data>
+  <data name="&gt;&gt;tabPageShoes.Name" xml:space="preserve">
+    <value>tabPageShoes</value>
+  </data>
+  <data name="&gt;&gt;labelRussiaEurope.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;label1.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="label1.TabIndex" type="System.Int32, mscorlib">
+    <value>0</value>
+  </data>
+  <data name="&gt;&gt;tabPageShoes.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TabPage, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="tabPageClothes.Location" type="System.Drawing.Point, System.Drawing">
+    <value>4, 32</value>
+  </data>
+  <data name="&gt;&gt;buttonCalculateShoes.Parent" xml:space="preserve">
+    <value>splitContainerShoes.Panel1</value>
+  </data>
+  <data name="textBoxUKClothes.TabIndex" type="System.Int32, mscorlib">
+    <value>11</value>
+  </data>
+  <data name="&gt;&gt;radioButtonWoman.Type" xml:space="preserve">
+    <value>System.Windows.Forms.RadioButton, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;radioButtonMan.Parent" xml:space="preserve">
+    <value>splitContainerClothes.Panel1</value>
+  </data>
+  <data name="&gt;&gt;labelUKClothSize.Parent" xml:space="preserve">
+    <value>splitContainerClothes.Panel2</value>
+  </data>
+  <data name="&gt;&gt;textBox3.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="&gt;&gt;tabPageShoes.Parent" xml:space="preserve">
+    <value>tabControlCalculator</value>
+  </data>
+  <data name="label1.Location" type="System.Drawing.Point, System.Drawing">
+    <value>11, 13</value>
+  </data>
+  <data name="&gt;&gt;tabControlCalculator.Name" xml:space="preserve">
+    <value>tabControlCalculator</value>
+  </data>
+  <data name="&gt;&gt;textBoxEurope.Name" xml:space="preserve">
+    <value>textBoxEurope</value>
+  </data>
+  <data name="&gt;&gt;textBoxUSA.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="buttonCalculateShoes.Location" type="System.Drawing.Point, System.Drawing">
+    <value>1, 359</value>
+  </data>
+  <data name="splitContainer1.Location" type="System.Drawing.Point, System.Drawing">
+    <value>0, 0</value>
+  </data>
+  <data name="textBox4.TabIndex" type="System.Int32, mscorlib">
+    <value>9</value>
+  </data>
+  <data name="splitContainerShoes.TabIndex" type="System.Int32, mscorlib">
+    <value>1</value>
+  </data>
+  <data name="&gt;&gt;textBoxUSAClothes.Name" xml:space="preserve">
+    <value>textBoxUSAClothes</value>
+  </data>
+  <data name="&gt;&gt;label2.ZOrder" xml:space="preserve">
+    <value>3</value>
+  </data>
+  <data name="labelFoot.TabIndex" type="System.Int32, mscorlib">
+    <value>0</value>
+  </data>
+  <data name="labelSex.Location" type="System.Drawing.Point, System.Drawing">
+    <value>12, 193</value>
+  </data>
+  <data name="textBox3.Location" type="System.Drawing.Point, System.Drawing">
+    <value>151, 43</value>
+  </data>
+  <data name="&gt;&gt;labelSex.ZOrder" xml:space="preserve">
+    <value>3</value>
+  </data>
+  <data name="&gt;&gt;tabPageShoes.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="tabPage2.Size" type="System.Drawing.Size, System.Drawing">
+    <value>611, 348</value>
+  </data>
+  <data name="textBox.Location" type="System.Drawing.Point, System.Drawing">
+    <value>12, 48</value>
+  </data>
+  <data name="&gt;&gt;splitContainerClothes.Panel2.Name" xml:space="preserve">
+    <value>splitContainerClothes.Panel2</value>
+  </data>
+  <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
+  <data name="tabControlCalculator.Appearance" type="System.Windows.Forms.TabAppearance, System.Windows.Forms">
+    <value>Buttons</value>
+  </data>
+  <data name="&gt;&gt;labelEurope.ZOrder" xml:space="preserve">
+    <value>4</value>
+  </data>
+  <data name="&gt;&gt;button2.ZOrder" xml:space="preserve">
+    <value>6</value>
+  </data>
+  <data name="&gt;&gt;labelUKShoes.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="&gt;&gt;textBoxRussia.Parent" xml:space="preserve">
+    <value>splitContainerClothes.Panel2</value>
+  </data>
+  <data name="&gt;&gt;textBoxUKClothes.Parent" xml:space="preserve">
+    <value>splitContainerClothes.Panel2</value>
+  </data>
+  <data name="&gt;&gt;labelFoot.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;labelUSAClothes.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;buttonCalculate.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;labelRussia.Name" xml:space="preserve">
+    <value>labelRussia</value>
+  </data>
+  <data name="splitContainerClothes.TabIndex" type="System.Int32, mscorlib">
+    <value>2</value>
+  </data>
+  <data name="labelRussiaEuropeOut.Location" type="System.Drawing.Point, System.Drawing">
+    <value>159, 13</value>
+  </data>
+  <data name="splitContainerClothes.Location" type="System.Drawing.Point, System.Drawing">
+    <value>0, 0</value>
+  </data>
+  <data name="tabPageClothes.TabIndex" type="System.Int32, mscorlib">
+    <value>1</value>
+  </data>
+  <data name="&gt;&gt;textBox4.Name" xml:space="preserve">
+    <value>textBox4</value>
+  </data>
+  <data name="&gt;&gt;textBoxInputFootSize.Name" xml:space="preserve">
+    <value>textBoxInputFootSize</value>
+  </data>
+  <data name="radioButtonMan.TabIndex" type="System.Int32, mscorlib">
+    <value>9</value>
+  </data>
+  <data name="&gt;&gt;tabPageClothes.Parent" xml:space="preserve">
+    <value>tabControlCalculator</value>
+  </data>
+  <data name="&gt;&gt;buttonClearClothes.Parent" xml:space="preserve">
+    <value>splitContainerClothes.Panel1</value>
+  </data>
+  <data name="labelEurope.Location" type="System.Drawing.Point, System.Drawing">
+    <value>21, 103</value>
+  </data>
+  <data name="labelUSAShoes.Location" type="System.Drawing.Point, System.Drawing">
+    <value>159, 42</value>
+  </data>
+  <data name="buttonClearClothes.Location" type="System.Drawing.Point, System.Drawing">
+    <value>95, 360</value>
+  </data>
+  <data name="&gt;&gt;$this.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Form, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;textBoxEurope.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="$this.Text" xml:space="preserve">
+    <value>Form1</value>
+  </data>
+  <data name="&gt;&gt;labelEuropeClothSize.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="&gt;&gt;splitContainerClothes.Panel1.Name" xml:space="preserve">
+    <value>splitContainerClothes.Panel1</value>
+  </data>
+  <data name="&gt;&gt;labelUKClothes.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;labelInputFootSize.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="splitContainer1.TabIndex" type="System.Int32, mscorlib">
+    <value>1</value>
+  </data>
+  <data name="&gt;&gt;labelUKShoes.Parent" xml:space="preserve">
+    <value>splitContainerShoes.Panel2</value>
+  </data>
+  <data name="&gt;&gt;splitContainerShoes.Panel1.Type" xml:space="preserve">
+    <value>System.Windows.Forms.SplitterPanel, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;tabPage1.Parent" xml:space="preserve">
+    <value>tabControlCalculator</value>
+  </data>
+  <data name="&gt;&gt;radioButtonMan.Type" xml:space="preserve">
+    <value>System.Windows.Forms.RadioButton, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;tabPage2.Name" xml:space="preserve">
+    <value>tabPage2</value>
+  </data>
+  <data name="&gt;&gt;textBoxUK.Name" xml:space="preserve">
+    <value>textBoxUK</value>
+  </data>
+  <data name="&gt;&gt;tabControlCalculator.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="&gt;&gt;labelUKShoes.Name" xml:space="preserve">
+    <value>labelUKShoes</value>
+  </data>
+  <data name="buttonClearClothes.TabIndex" type="System.Int32, mscorlib">
+    <value>5</value>
+  </data>
+  <data name="&gt;&gt;textBox2.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;textBoxUKClothes.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="buttonClear.Location" type="System.Drawing.Point, System.Drawing">
+    <value>95, 337</value>
+  </data>
+  <data name="labelRussiaEurope.TabIndex" type="System.Int32, mscorlib">
+    <value>0</value>
+  </data>
+  <data name="&gt;&gt;button2.Parent" xml:space="preserve">
+    <value>splitContainerClothes.Panel1</value>
+  </data>
+  <data name="&gt;&gt;splitContainerClothes.Panel2.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="&gt;&gt;textBox3.Parent" xml:space="preserve">
+    <value>splitContainerClothes.Panel2</value>
+  </data>
+  <data name="labelUKClothes.TabIndex" type="System.Int32, mscorlib">
+    <value>8</value>
+  </data>
+  <data name="&gt;&gt;splitContainerShoes.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="labelEuropeClothSize.Location" type="System.Drawing.Point, System.Drawing">
+    <value>157, 102</value>
+  </data>
+  <data name="&gt;&gt;labelUKClothSize.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="&gt;&gt;buttonCalculateShoes.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="&gt;&gt;radioButtonWoman.Name" xml:space="preserve">
+    <value>radioButtonWoman</value>
+  </data>
+  <data name="&gt;&gt;splitContainerShoes.Parent" xml:space="preserve">
+    <value>tabPageShoes</value>
+  </data>
+  <data name="&gt;&gt;labelUSAClothSize.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;label1.Name" xml:space="preserve">
+    <value>label1</value>
+  </data>
+  <data name="&gt;&gt;labelInputFootSize.ZOrder" xml:space="preserve">
+    <value>3</value>
+  </data>
+  <data name="textBoxUK.TabIndex" type="System.Int32, mscorlib">
+    <value>5</value>
+  </data>
+  <data name="&gt;&gt;textBox3.Name" xml:space="preserve">
+    <value>textBox3</value>
+  </data>
+  <data name="&gt;&gt;buttonCalculateClothes.ZOrder" xml:space="preserve">
+    <value>6</value>
+  </data>
+  <data name="&gt;&gt;label3.Name" xml:space="preserve">
+    <value>label3</value>
+  </data>
+  <data name="&gt;&gt;textBoxRussia.ZOrder" xml:space="preserve">
+    <value>4</value>
+  </data>
+  <data name="labelUKClothSize.Location" type="System.Drawing.Point, System.Drawing">
+    <value>157, 73</value>
+  </data>
+  <data name="labelFoot.Location" type="System.Drawing.Point, System.Drawing">
+    <value>61, 32</value>
+  </data>
+  <data name="&gt;&gt;textBox1.ZOrder" xml:space="preserve">
+    <value>2</value>
+  </data>
+  <data name="&gt;&gt;button2.Name" xml:space="preserve">
+    <value>button2</value>
+  </data>
+  <data name="&gt;&gt;labelRussiaClothSize.ZOrder" xml:space="preserve">
+    <value>3</value>
+  </data>
+  <data name="&gt;&gt;splitContainerShoes.Name" xml:space="preserve">
+    <value>splitContainerShoes</value>
+  </data>
+  <data name="&gt;&gt;textBoxChestGirth.Name" xml:space="preserve">
+    <value>textBoxChestGirth</value>
+  </data>
+  <data name="&gt;&gt;buttonCalculate.Parent" xml:space="preserve">
+    <value>splitContainerShoes.Panel1</value>
+  </data>
+  <data name="textBoxUSA.Location" type="System.Drawing.Point, System.Drawing">
+    <value>160, 60</value>
+  </data>
+  <data name="labelEuropeClothSize.TabIndex" type="System.Int32, mscorlib">
+    <value>17</value>
+  </data>
+  <data name="textBoxChestGirth.TabIndex" type="System.Int32, mscorlib">
+    <value>1</value>
+  </data>
+  <data name="&gt;&gt;textBoxRussiaEurope.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="textBoxRussia.Location" type="System.Drawing.Point, System.Drawing">
+    <value>151, 13</value>
+  </data>
+  <data name="&gt;&gt;splitContainerShoes.Panel2.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="&gt;&gt;labelEurope.Parent" xml:space="preserve">
+    <value>splitContainerClothes.Panel2</value>
+  </data>
+  <data name="&gt;&gt;labelUSA.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="textBoxUSAClothes.Location" type="System.Drawing.Point, System.Drawing">
+    <value>151, 43</value>
+  </data>
+  <data name="&gt;&gt;labelRussiaEuropeOut.Name" xml:space="preserve">
+    <value>labelRussiaEuropeOut</value>
+  </data>
+  <data name="&gt;&gt;labelUSAShoes.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="&gt;&gt;tabControlCalculator.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;tabControlCalculator.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TabControl, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;splitContainer1.Type" xml:space="preserve">
+    <value>System.Windows.Forms.SplitContainer, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="buttonCalculate.Location" type="System.Drawing.Point, System.Drawing">
+    <value>1, 337</value>
+  </data>
+  <data name="&gt;&gt;buttonCalculateClothes.Name" xml:space="preserve">
+    <value>buttonCalculateClothes</value>
+  </data>
+  <data name="&gt;&gt;buttonCalculateClothes.Parent" xml:space="preserve">
+    <value>splitContainerClothes.Panel1</value>
+  </data>
+  <data name="&gt;&gt;labelUKClothes.Name" xml:space="preserve">
+    <value>labelUKClothes</value>
+  </data>
+  <data name="labelRussiaClothSize.TabIndex" type="System.Int32, mscorlib">
+    <value>14</value>
+  </data>
+  <data name="&gt;&gt;label2.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;labelRussiaEurope.Parent" xml:space="preserve">
+    <value>splitContainerShoes.Panel2</value>
+  </data>
+  <data name="tabPage2.Location" type="System.Drawing.Point, System.Drawing">
+    <value>4, 32</value>
+  </data>
+  <data name="&gt;&gt;splitContainerClothes.Name" xml:space="preserve">
+    <value>splitContainerClothes</value>
+  </data>
+  <data name="tabPageShoes.TabIndex" type="System.Int32, mscorlib">
+    <value>0</value>
+  </data>
+  <data name="&gt;&gt;textBox2.Name" xml:space="preserve">
+    <value>textBox2</value>
+  </data>
+  <data name="&gt;&gt;tabPage2.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TabPage, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="tabControlCalculator.Size" type="System.Drawing.Size, System.Drawing">
+    <value>619, 384</value>
+  </data>
+  <data name="&gt;&gt;labelEurope.Name" xml:space="preserve">
+    <value>labelEurope</value>
+  </data>
+  <data name="textBoxUK.Location" type="System.Drawing.Point, System.Drawing">
+    <value>160, 90</value>
+  </data>
+  <data name="&gt;&gt;splitContainer1.Panel2.Name" xml:space="preserve">
+    <value>splitContainer1.Panel2</value>
+  </data>
+  <data name="&gt;&gt;buttonClearClothes.Name" xml:space="preserve">
+    <value>buttonClearClothes</value>
+  </data>
+  <data name="textBox2.Location" type="System.Drawing.Point, System.Drawing">
+    <value>151, 73</value>
+  </data>
+  <data name="labelRussia.TabIndex" type="System.Int32, mscorlib">
+    <value>6</value>
+  </data>
+  <data name="&gt;&gt;labelFoot.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="&gt;&gt;textBoxWaistCircumference.Parent" xml:space="preserve">
+    <value>splitContainerClothes.Panel1</value>
+  </data>
+  <data name="&gt;&gt;splitContainer1.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="&gt;&gt;labelRussiaEuropeOut.ZOrder" xml:space="preserve">
+    <value>2</value>
+  </data>
+  <data name="&gt;&gt;splitContainerShoes.Panel2.Parent" xml:space="preserve">
+    <value>splitContainerShoes</value>
+  </data>
+  <data name="&gt;&gt;buttonClearClothes.ZOrder" xml:space="preserve">
+    <value>5</value>
+  </data>
+  <data name="&gt;&gt;splitContainerClothes.Type" xml:space="preserve">
+    <value>System.Windows.Forms.SplitContainer, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="tabPage1.Size" type="System.Drawing.Size, System.Drawing">
+    <value>611, 348</value>
+  </data>
+  <data name="&gt;&gt;buttonCalculate.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="labelUK.Location" type="System.Drawing.Point, System.Drawing">
+    <value>30, 90</value>
+  </data>
+  <data name="labelUKClothes.Location" type="System.Drawing.Point, System.Drawing">
+    <value>21, 73</value>
+  </data>
+  <data name="&gt;&gt;textBoxUKClothes.Name" xml:space="preserve">
+    <value>textBoxUKClothes</value>
+  </data>
+  <data name="&gt;&gt;tabPageClothes.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="tabPage1.TabIndex" type="System.Int32, mscorlib">
+    <value>0</value>
+  </data>
+  <data name="&gt;&gt;labelRussia.Parent" xml:space="preserve">
+    <value>splitContainerClothes.Panel2</value>
+  </data>
+  <data name="&gt;&gt;splitContainerClothes.Panel1.Type" xml:space="preserve">
+    <value>System.Windows.Forms.SplitterPanel, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;textBoxWaistCircumference.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="tabPageShoes.Location" type="System.Drawing.Point, System.Drawing">
+    <value>4, 32</value>
+  </data>
+  <data name="textBoxUSAClothes.TabIndex" type="System.Int32, mscorlib">
+    <value>10</value>
+  </data>
+  <data name="&gt;&gt;label1.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="labelWaistCircumference.TabIndex" type="System.Int32, mscorlib">
+    <value>6</value>
+  </data>
+  <data name="&gt;&gt;buttonClear.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;splitContainerClothes.Panel1.Parent" xml:space="preserve">
+    <value>splitContainerClothes</value>
+  </data>
+  <data name="&gt;&gt;buttonCalculateClothes.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;textBoxUSA.Parent" xml:space="preserve">
+    <value>splitContainerShoes.Panel2</value>
+  </data>
+  <data name="textBoxUKClothes.Location" type="System.Drawing.Point, System.Drawing">
+    <value>151, 73</value>
+  </data>
+  <data name="&gt;&gt;textBoxUSAClothes.Parent" xml:space="preserve">
+    <value>splitContainerClothes.Panel2</value>
+  </data>
+  <data name="labelSex.TabIndex" type="System.Int32, mscorlib">
+    <value>7</value>
+  </data>
+  <data name="&gt;&gt;$this.Name" xml:space="preserve">
+    <value>Form1</value>
+  </data>
+  <data name="label3.TabIndex" type="System.Int32, mscorlib">
+    <value>7</value>
+  </data>
+  <data name="&gt;&gt;radioButtonWoman.Parent" xml:space="preserve">
+    <value>splitContainerClothes.Panel1</value>
+  </data>
+  <data name="&gt;&gt;textBoxUSA.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;labelRussiaClothSize.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;textBoxRussiaEurope.ZOrder" xml:space="preserve">
+    <value>2</value>
+  </data>
+  <data name="&gt;&gt;labelRussiaEuropeOut.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;textBoxUK.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="&gt;&gt;textBox4.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;labelUSAShoes.Name" xml:space="preserve">
+    <value>labelUSAShoes</value>
+  </data>
+  <data name="labelRussiaEurope.Location" type="System.Drawing.Point, System.Drawing">
+    <value>30, 30</value>
+  </data>
+  <data name="&gt;&gt;tabPage1.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="&gt;&gt;textBox1.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;label2.Name" xml:space="preserve">
+    <value>label2</value>
+  </data>
+  <data name="&gt;&gt;textBoxRussiaEurope.Parent" xml:space="preserve">
+    <value>splitContainerShoes.Panel2</value>
+  </data>
+  <data name="&gt;&gt;splitContainer1.Panel1.Parent" xml:space="preserve">
+    <value>splitContainer1</value>
+  </data>
+  <data name="&gt;&gt;buttonCalculate.Name" xml:space="preserve">
+    <value>buttonCalculate</value>
+  </data>
+  <data name="textBoxRussiaEurope.TabIndex" type="System.Int32, mscorlib">
+    <value>3</value>
+  </data>
+  <data name="textBoxUSA.TabIndex" type="System.Int32, mscorlib">
+    <value>4</value>
+  </data>
+  <data name="&gt;&gt;labelUSA.Parent" xml:space="preserve">
+    <value>splitContainerShoes.Panel2</value>
+  </data>
+  <data name="radioButtonMan.Location" type="System.Drawing.Point, System.Drawing">
+    <value>23, 244</value>
+  </data>
+  <data name="textBoxRussiaEurope.Location" type="System.Drawing.Point, System.Drawing">
+    <value>160, 30</value>
+  </data>
+  <data name="&gt;&gt;tabPage1.Name" xml:space="preserve">
+    <value>tabPage1</value>
+  </data>
+  <data name="&gt;&gt;splitContainerShoes.Type" xml:space="preserve">
+    <value>System.Windows.Forms.SplitContainer, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="label2.TabIndex" type="System.Int32, mscorlib">
+    <value>8</value>
+  </data>
+  <data name="&gt;&gt;tabPage1.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TabPage, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="labelChestGirth.Location" type="System.Drawing.Point, System.Drawing">
+    <value>12, 11</value>
+  </data>
+  <data name="labelUSA.TabIndex" type="System.Int32, mscorlib">
+    <value>1</value>
+  </data>
+  <data name="&gt;&gt;labelUKShoes.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="labelUSAClothSize.TabIndex" type="System.Int32, mscorlib">
+    <value>15</value>
+  </data>
+  <data name="textBox1.Location" type="System.Drawing.Point, System.Drawing">
+    <value>12, 48</value>
+  </data>
+  <data name="&gt;&gt;label3.Parent" xml:space="preserve">
+    <value>splitContainerClothes.Panel2</value>
+  </data>
+  <data name="&gt;&gt;labelEuropeClothSize.Name" xml:space="preserve">
+    <value>labelEuropeClothSize</value>
+  </data>
+  <data name="&gt;&gt;splitContainerClothes.Parent" xml:space="preserve">
+    <value>tabPageClothes</value>
+  </data>
+  <data name="&gt;&gt;labelUSAClothes.Name" xml:space="preserve">
+    <value>labelUSAClothes</value>
+  </data>
+  <data name="textBoxWaistCircumference.TabIndex" type="System.Int32, mscorlib">
+    <value>8</value>
+  </data>
+  <data name="&gt;&gt;textBoxUKClothes.ZOrder" xml:space="preserve">
+    <value>2</value>
+  </data>
+  <data name="&gt;&gt;textBoxInputFootSize.Parent" xml:space="preserve">
+    <value>splitContainerShoes.Panel1</value>
+  </data>
+  <data name="&gt;&gt;textBoxUSAClothes.ZOrder" xml:space="preserve">
+    <value>3</value>
+  </data>
+  <data name="labelChestGirth.TabIndex" type="System.Int32, mscorlib">
+    <value>0</value>
+  </data>
+  <data name="&gt;&gt;textBoxChestGirth.ZOrder" xml:space="preserve">
+    <value>7</value>
+  </data>
+  <data name="&gt;&gt;labelUKClothes.ZOrder" xml:space="preserve">
+    <value>5</value>
+  </data>
+  <data name="label4.TabIndex" type="System.Int32, mscorlib">
+    <value>6</value>
+  </data>
+  <data name="&gt;&gt;tabPage2.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="&gt;&gt;tabPage2.Parent" xml:space="preserve">
+    <value>tabControlCalculator</value>
+  </data>
+  <data name="textBoxWaistCircumference.Location" type="System.Drawing.Point, System.Drawing">
+    <value>12, 142</value>
+  </data>
+  <data name="&gt;&gt;textBox.Name" xml:space="preserve">
+    <value>textBox</value>
+  </data>
+  <data name="&gt;&gt;textBoxUSA.Name" xml:space="preserve">
+    <value>textBoxUSA</value>
+  </data>
+  <data name="&gt;&gt;labelFoot.Parent" xml:space="preserve">
+    <value>splitContainerShoes.Panel1</value>
+  </data>
+  <data name="&gt;&gt;textBoxEurope.Parent" xml:space="preserve">
+    <value>splitContainerClothes.Panel2</value>
+  </data>
+  <data name="splitContainerShoes.Location" type="System.Drawing.Point, System.Drawing">
+    <value>40, 24</value>
+  </data>
+  <data name="&gt;&gt;labelUSAShoes.Parent" xml:space="preserve">
+    <value>splitContainerShoes.Panel2</value>
+  </data>
+  <data name="buttonClear.TabIndex" type="System.Int32, mscorlib">
+    <value>3</value>
+  </data>
+  <data name="&gt;&gt;splitContainerShoes.Panel1.Parent" xml:space="preserve">
+    <value>splitContainerShoes</value>
+  </data>
+  <data name="&gt;&gt;textBoxRussia.Name" xml:space="preserve">
+    <value>textBoxRussia</value>
+  </data>
+  <data name="&gt;&gt;button1.Name" xml:space="preserve">
+    <value>button1</value>
+  </data>
+  <data name="&gt;&gt;label4.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="labelInputFootSize.TabIndex" type="System.Int32, mscorlib">
+    <value>0</value>
+  </data>
+  <data name="&gt;&gt;textBoxRussia.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;textBox1.Parent" xml:space="preserve">
+    <value>splitContainerClothes.Panel1</value>
+  </data>
+  <data name="&gt;&gt;labelSex.Name" xml:space="preserve">
+    <value>labelSex</value>
+  </data>
+  <data name="tabPage2.Padding" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>3, 3, 3, 3</value>
+  </data>
+  <data name="label3.Location" type="System.Drawing.Point, System.Drawing">
+    <value>21, 43</value>
+  </data>
+  <data name="button1.Location" type="System.Drawing.Point, System.Drawing">
+    <value>95, 360</value>
+  </data>
+  <data name="&gt;&gt;label3.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;labelRussia.ZOrder" xml:space="preserve">
+    <value>7</value>
+  </data>
+  <data name="&gt;&gt;labelUSAClothes.ZOrder" xml:space="preserve">
+    <value>6</value>
+  </data>
+  <data name="&gt;&gt;labelRussiaClothSize.Name" xml:space="preserve">
+    <value>labelRussiaClothSize</value>
+  </data>
+  <data name="&gt;&gt;textBoxUK.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;labelUKClothSize.Name" xml:space="preserve">
+    <value>labelUKClothSize</value>
+  </data>
+  <data name="&gt;&gt;labelUSAClothSize.ZOrder" xml:space="preserve">
+    <value>2</value>
+  </data>
+  <data name="&gt;&gt;labelUK.Parent" xml:space="preserve">
+    <value>splitContainerShoes.Panel2</value>
+  </data>
+  <data name="&gt;&gt;labelInputFootSize.Parent" xml:space="preserve">
+    <value>splitContainerShoes.Panel1</value>
+  </data>
+  <data name="&gt;&gt;label3.ZOrder" xml:space="preserve">
+    <value>4</value>
+  </data>
+  <data name="&gt;&gt;labelInputFootSize.Name" xml:space="preserve">
+    <value>labelInputFootSize</value>
+  </data>
+  <data name="&gt;&gt;radioButtonMan.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="&gt;&gt;labelUSAClothSize.Name" xml:space="preserve">
+    <value>labelUSAClothSize</value>
+  </data>
+  <data name="labelRussia.Location" type="System.Drawing.Point, System.Drawing">
+    <value>21, 13</value>
+  </data>
+  <data name="&gt;&gt;textBoxChestGirth.Parent" xml:space="preserve">
+    <value>splitContainerClothes.Panel1</value>
+  </data>
+  <data name="&gt;&gt;buttonClearShoes.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="&gt;&gt;labelRussiaEurope.ZOrder" xml:space="preserve">
+    <value>5</value>
+  </data>
+  <data name="radioButtonWoman.Location" type="System.Drawing.Point, System.Drawing">
+    <value>23, 274</value>
+  </data>
+  <data name="&gt;&gt;splitContainer1.Panel2.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="&gt;&gt;textBox.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;splitContainer1.Panel2.Type" xml:space="preserve">
+    <value>System.Windows.Forms.SplitterPanel, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;labelRussiaEurope.Name" xml:space="preserve">
+    <value>labelRussiaEurope</value>
+  </data>
+  <data name="&gt;&gt;labelUK.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;labelRussiaEuropeOut.Parent" xml:space="preserve">
+    <value>splitContainerShoes.Panel2</value>
+  </data>
+  <data name="&gt;&gt;splitContainerShoes.Panel1.Name" xml:space="preserve">
+    <value>splitContainerShoes.Panel1</value>
+  </data>
+  <data name="&gt;&gt;labelFoot.Name" xml:space="preserve">
+    <value>labelFoot</value>
+  </data>
+  <data name="&gt;&gt;splitContainer1.Panel1.Type" xml:space="preserve">
+    <value>System.Windows.Forms.SplitterPanel, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;labelUKClothSize.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;labelChestGirth.Name" xml:space="preserve">
+    <value>labelChestGirth</value>
+  </data>
+  <data name="&gt;&gt;labelWaistCircumference.ZOrder" xml:space="preserve">
+    <value>4</value>
+  </data>
+  <data name="&gt;&gt;textBox.ZOrder" xml:space="preserve">
+    <value>2</value>
+  </data>
+  <data name="&gt;&gt;splitContainerClothes.Panel1.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="&gt;&gt;label4.ZOrder" xml:space="preserve">
+    <value>5</value>
+  </data>
+  <data name="labelUKShoes.Location" type="System.Drawing.Point, System.Drawing">
+    <value>159, 72</value>
+  </data>
+  <data name="textBox1.TabIndex" type="System.Int32, mscorlib">
+    <value>1</value>
+  </data>
+  <data name="&gt;&gt;labelChestGirth.ZOrder" xml:space="preserve">
+    <value>8</value>
+  </data>
+  <data name="labelRussiaClothSize.Location" type="System.Drawing.Point, System.Drawing">
+    <value>157, 13</value>
+  </data>
+  <data name="textBox3.TabIndex" type="System.Int32, mscorlib">
+    <value>10</value>
+  </data>
+  <data name="&gt;&gt;labelWaistCircumference.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;labelEuropeClothSize.Parent" xml:space="preserve">
+    <value>splitContainerClothes.Panel2</value>
+  </data>
+  <data name="buttonCalculateClothes.Location" type="System.Drawing.Point, System.Drawing">
+    <value>1, 360</value>
+  </data>
+  <data name="&gt;&gt;label2.Parent" xml:space="preserve">
+    <value>splitContainerClothes.Panel2</value>
+  </data>
+  <data name="tabPage1.Text" xml:space="preserve">
+    <value>tabPage1</value>
+  </data>
+  <data name="&gt;&gt;splitContainerClothes.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="&gt;&gt;tabPageClothes.Name" xml:space="preserve">
+    <value>tabPageClothes</value>
+  </data>
+  <data name="&gt;&gt;labelRussiaClothSize.Parent" xml:space="preserve">
+    <value>splitContainerClothes.Panel2</value>
+  </data>
+  <data name="labelUSAClothSize.Location" type="System.Drawing.Point, System.Drawing">
+    <value>157, 42</value>
+  </data>
+  <data name="&gt;&gt;textBoxEurope.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="label2.Location" type="System.Drawing.Point, System.Drawing">
+    <value>21, 73</value>
+  </data>
+  <data name="&gt;&gt;labelWaistCircumference.Parent" xml:space="preserve">
+    <value>splitContainerClothes.Panel1</value>
+  </data>
+  <data name="&gt;&gt;textBox1.Name" xml:space="preserve">
+    <value>textBox1</value>
+  </data>
+  <data name="&gt;&gt;splitContainer1.Parent" xml:space="preserve">
+    <value>tabPageClothes</value>
+  </data>
+  <data name="label4.Location" type="System.Drawing.Point, System.Drawing">
+    <value>21, 13</value>
+  </data>
+  <data name="labelUKClothSize.TabIndex" type="System.Int32, mscorlib">
+    <value>16</value>
+  </data>
+  <data name="&gt;&gt;buttonCalculateShoes.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="buttonCalculateClothes.TabIndex" type="System.Int32, mscorlib">
+    <value>4</value>
+  </data>
+  <data name="&gt;&gt;label1.Parent" xml:space="preserve">
+    <value>splitContainer1.Panel1</value>
+  </data>
+  <data name="&gt;&gt;buttonClear.Name" xml:space="preserve">
+    <value>buttonClear</value>
+  </data>
+  <data name="tabPage1.Location" type="System.Drawing.Point, System.Drawing">
+    <value>4, 32</value>
+  </data>
+  <data name="&gt;&gt;labelUSAShoes.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;splitContainer1.Name" xml:space="preserve">
+    <value>splitContainer1</value>
+  </data>
+  <data name="$this.AutoScaleDimensions" type="System.Drawing.SizeF, System.Drawing">
+    <value>8, 20</value>
+  </data>
+  <data name="&gt;&gt;radioButtonMan.Name" xml:space="preserve">
+    <value>radioButtonMan</value>
+  </data>
+  <data name="labelInputFootSize.Location" type="System.Drawing.Point, System.Drawing">
+    <value>11, 13</value>
+  </data>
+  <data name="&gt;&gt;splitContainer1.Panel1.Name" xml:space="preserve">
+    <value>splitContainer1.Panel1</value>
+  </data>
+  <data name="&gt;&gt;splitContainerClothes.Panel2.Parent" xml:space="preserve">
+    <value>splitContainerClothes</value>
+  </data>
+  <data name="&gt;&gt;labelUSA.Name" xml:space="preserve">
+    <value>labelUSA</value>
+  </data>
+  <data name="&gt;&gt;buttonClearShoes.Name" xml:space="preserve">
+    <value>buttonClearShoes</value>
+  </data>
+  <data name="tabPage1.Padding" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>3, 3, 3, 3</value>
+  </data>
+  <data name="textBoxInputFootSize.Location" type="System.Drawing.Point, System.Drawing">
+    <value>12, 48</value>
+  </data>
+  <data name="&gt;&gt;label4.Name" xml:space="preserve">
+    <value>label4</value>
+  </data>
+  <data name="&gt;&gt;labelWaistCircumference.Name" xml:space="preserve">
+    <value>labelWaistCircumference</value>
+  </data>
+  <data name="&gt;&gt;textBoxInputFootSize.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;button1.ZOrder" xml:space="preserve">
+    <value>5</value>
+  </data>
+  <metadata name="$this.Localizable" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <metadata name="textBoxUSA.GenerateMember" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>False</value>
+  </metadata>
+  <metadata name="textBoxRussia.GenerateMember" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>False</value>
+  </metadata>
+  <metadata name="textBoxRussiaEurope.GenerateMember" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>False</value>
+  </metadata>
+  <metadata name="textBoxUSAClothes.GenerateMember" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>False</value>
+  </metadata>
+  <metadata name="textBoxEurope.GenerateMember" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>False</value>
+  </metadata>
+  <metadata name="textBoxUKClothes.GenerateMember" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>False</value>
+  </metadata>
+  <metadata name="textBox2.GenerateMember" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>False</value>
+  </metadata>
+  <metadata name="$this.Language" type="System.Globalization.CultureInfo, System.Private.CoreLib, Culture=neutral, PublicKeyToken=7cec85d7bea7798e">
+    <value>ru</value>
+  </metadata>
+  <metadata name="textBoxUK.GenerateMember" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>False</value>
+  </metadata>
+  <metadata name="textBox3.GenerateMember" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>False</value>
+  </metadata>
+  <metadata name="textBox4.GenerateMember" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>False</value>
+  </metadata>
+</root>

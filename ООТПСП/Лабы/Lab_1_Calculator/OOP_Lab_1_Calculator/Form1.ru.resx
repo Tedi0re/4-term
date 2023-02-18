@@ -1,0 +1,351 @@
+﻿<root>
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <assembly alias="mscorlib" name="mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
+  <data name="splitContainerShoes.IsSplitterFixed" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <assembly alias="System.Drawing" name="System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+  <data name="splitContainerShoes.Location" type="System.Drawing.Point, System.Drawing">
+    <value>0, 0</value>
+  </data>
+  <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
+  <data name="buttonClearShoes.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="buttonClearShoes.Size" type="System.Drawing.Size, System.Drawing">
+    <value>94, 29</value>
+  </data>
+  <data name="buttonClearShoes.Text" xml:space="preserve">
+    <value>Очистить</value>
+  </data>
+  <data name="buttonCalculateShoes.Size" type="System.Drawing.Size, System.Drawing">
+    <value>94, 29</value>
+  </data>
+  <data name="buttonCalculateShoes.Text" xml:space="preserve">
+    <value>Вычисить</value>
+  </data>
+  <data name="textBoxInputFootSize.MaxLength" type="System.Int32, mscorlib">
+    <value>5</value>
+  </data>
+  <data name="textBoxInputFootSize.Size" type="System.Drawing.Size, System.Drawing">
+    <value>141, 27</value>
+  </data>
+  <data name="labelInputFootSize.Anchor" type="System.Windows.Forms.AnchorStyles, System.Windows.Forms">
+    <value>Top, Bottom, Left, Right</value>
+  </data>
+  <data name="labelInputFootSize.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="labelInputFootSize.Location" type="System.Drawing.Point, System.Drawing">
+    <value>12, 11</value>
+  </data>
+  <data name="labelInputFootSize.Size" type="System.Drawing.Size, System.Drawing">
+    <value>141, 22</value>
+  </data>
+  <data name="labelInputFootSize.Text" xml:space="preserve">
+    <value>Длина ступни (см.)</value>
+  </data>
+  <data name="labelUSAShoes.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="labelUSAShoes.Size" type="System.Drawing.Size, System.Drawing">
+    <value>130, 20</value>
+  </data>
+  <data name="labelUKShoes.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="labelUKShoes.Size" type="System.Drawing.Size, System.Drawing">
+    <value>130, 20</value>
+  </data>
+  <data name="labelRussiaEuropeOut.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="labelRussiaEuropeOut.Size" type="System.Drawing.Size, System.Drawing">
+    <value>130, 20</value>
+  </data>
+  <data name="labelUK.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="labelUK.Location" type="System.Drawing.Point, System.Drawing">
+    <value>23, 73</value>
+  </data>
+  <data name="labelUK.Size" type="System.Drawing.Size, System.Drawing">
+    <value>130, 20</value>
+  </data>
+  <data name="labelUK.Text" xml:space="preserve">
+    <value>Великобритания</value>
+  </data>
+  <data name="labelUSA.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="labelUSA.Location" type="System.Drawing.Point, System.Drawing">
+    <value>23, 43</value>
+  </data>
+  <data name="labelUSA.Size" type="System.Drawing.Size, System.Drawing">
+    <value>130, 20</value>
+  </data>
+  <data name="labelUSA.Text" xml:space="preserve">
+    <value>Америка</value>
+  </data>
+  <data name="labelRussiaEurope.Location" type="System.Drawing.Point, System.Drawing">
+    <value>23, 13</value>
+  </data>
+  <data name="labelRussiaEurope.Size" type="System.Drawing.Size, System.Drawing">
+    <value>130, 20</value>
+  </data>
+  <data name="labelRussiaEurope.Text" xml:space="preserve">
+    <value>Россия/Европа</value>
+  </data>
+  <data name="splitContainerShoes.Size" type="System.Drawing.Size, System.Drawing">
+    <value>801, 420</value>
+  </data>
+  <data name="splitContainerShoes.SplitterDistance" type="System.Int32, mscorlib">
+    <value>196</value>
+  </data>
+  <data name="splitContainerClothes.Panel1.BackgroundImageLayout" type="System.Windows.Forms.ImageLayout, System.Windows.Forms">
+    <value>None</value>
+  </data>
+  <data name="radioButtonWoman.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="radioButtonWoman.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="radioButtonWoman.Size" type="System.Drawing.Size, System.Drawing">
+    <value>98, 24</value>
+  </data>
+  <data name="radioButtonWoman.Text" xml:space="preserve">
+    <value>Женщина</value>
+  </data>
+  <data name="radioButtonMan.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="radioButtonMan.Size" type="System.Drawing.Size, System.Drawing">
+    <value>95, 24</value>
+  </data>
+  <data name="radioButtonMan.Text" xml:space="preserve">
+    <value>Мужчина</value>
+  </data>
+  <data name="textBoxWaistCircumference.MaxLength" type="System.Int32, mscorlib">
+    <value>5</value>
+  </data>
+  <data name="textBoxWaistCircumference.Size" type="System.Drawing.Size, System.Drawing">
+    <value>141, 27</value>
+  </data>
+  <data name="labelSex.Anchor" type="System.Windows.Forms.AnchorStyles, System.Windows.Forms">
+    <value>Top, Bottom, Left, Right</value>
+  </data>
+  <data name="labelSex.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="labelSex.Size" type="System.Drawing.Size, System.Drawing">
+    <value>141, 27</value>
+  </data>
+  <data name="labelSex.Text" xml:space="preserve">
+    <value>Пол</value>
+  </data>
+  <data name="labelSex.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
+    <value>MiddleCenter</value>
+  </data>
+  <data name="labelWaistCircumference.Anchor" type="System.Windows.Forms.AnchorStyles, System.Windows.Forms">
+    <value>Top, Bottom, Left, Right</value>
+  </data>
+  <data name="labelWaistCircumference.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="labelWaistCircumference.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="labelWaistCircumference.Size" type="System.Drawing.Size, System.Drawing">
+    <value>139, 22</value>
+  </data>
+  <data name="labelWaistCircumference.Text" xml:space="preserve">
+    <value>Обхват талии (см.)</value>
+  </data>
+  <data name="buttonClearClothes.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="buttonClearClothes.Size" type="System.Drawing.Size, System.Drawing">
+    <value>94, 29</value>
+  </data>
+  <data name="buttonClearClothes.Text" xml:space="preserve">
+    <value>Очистить</value>
+  </data>
+  <data name="buttonCalculateClothes.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="buttonCalculateClothes.Size" type="System.Drawing.Size, System.Drawing">
+    <value>94, 29</value>
+  </data>
+  <data name="buttonCalculateClothes.Text" xml:space="preserve">
+    <value>Вычисить</value>
+  </data>
+  <data name="textBoxChestGirth.MaxLength" type="System.Int32, mscorlib">
+    <value>5</value>
+  </data>
+  <data name="textBoxChestGirth.Size" type="System.Drawing.Size, System.Drawing">
+    <value>141, 27</value>
+  </data>
+  <data name="labelChestGirth.Anchor" type="System.Windows.Forms.AnchorStyles, System.Windows.Forms">
+    <value>Top, Bottom, Left, Right</value>
+  </data>
+  <data name="labelChestGirth.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="labelChestGirth.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="labelChestGirth.Size" type="System.Drawing.Size, System.Drawing">
+    <value>138, 22</value>
+  </data>
+  <data name="labelChestGirth.Text" xml:space="preserve">
+    <value>Обхват груди (см.)</value>
+  </data>
+  <data name="labelEuropeClothSize.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="labelEuropeClothSize.Size" type="System.Drawing.Size, System.Drawing">
+    <value>130, 20</value>
+  </data>
+  <data name="labelUKClothSize.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="labelUKClothSize.Size" type="System.Drawing.Size, System.Drawing">
+    <value>130, 20</value>
+  </data>
+  <data name="labelUSAClothSize.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="labelUSAClothSize.Size" type="System.Drawing.Size, System.Drawing">
+    <value>130, 20</value>
+  </data>
+  <data name="labelRussiaClothSize.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="labelRussiaClothSize.Size" type="System.Drawing.Size, System.Drawing">
+    <value>130, 20</value>
+  </data>
+  <data name="labelEurope.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="labelEurope.Size" type="System.Drawing.Size, System.Drawing">
+    <value>130, 20</value>
+  </data>
+  <data name="labelEurope.Text" xml:space="preserve">
+    <value>Европа</value>
+  </data>
+  <data name="labelUKClothes.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="labelUKClothes.Size" type="System.Drawing.Size, System.Drawing">
+    <value>130, 20</value>
+  </data>
+  <data name="labelUKClothes.Text" xml:space="preserve">
+    <value>Великобритания</value>
+  </data>
+  <data name="labelUSAClothes.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="labelUSAClothes.Size" type="System.Drawing.Size, System.Drawing">
+    <value>130, 20</value>
+  </data>
+  <data name="labelUSAClothes.Text" xml:space="preserve">
+    <value>Америка</value>
+  </data>
+  <data name="labelRussia.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="labelRussia.Size" type="System.Drawing.Size, System.Drawing">
+    <value>130, 20</value>
+  </data>
+  <data name="labelRussia.Text" xml:space="preserve">
+    <value>Россия/Беларусь</value>
+  </data>
+  <data name="splitContainerClothes.Size" type="System.Drawing.Size, System.Drawing">
+    <value>801, 420</value>
+  </data>
+  <data name="splitContainerClothes.SplitterDistance" type="System.Int32, mscorlib">
+    <value>196</value>
+  </data>
+  <data name="tabPageShoes.Padding" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>3, 3, 3, 3</value>
+  </data>
+  <data name="tabPageShoes.Size" type="System.Drawing.Size, System.Drawing">
+    <value>797, 420</value>
+  </data>
+  <data name="tabPageShoes.Text" xml:space="preserve">
+    <value>Обувь</value>
+  </data>
+  <data name="tabPageClothes.Padding" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>3, 3, 3, 3</value>
+  </data>
+  <data name="tabPageClothes.Size" type="System.Drawing.Size, System.Drawing">
+    <value>797, 420</value>
+  </data>
+  <data name="tabPageClothes.Text" xml:space="preserve">
+    <value>Одежда</value>
+  </data>
+  <data name="tabControlCalculator.Location" type="System.Drawing.Point, System.Drawing">
+    <value>0, 0</value>
+  </data>
+  <data name="tabControlCalculator.Size" type="System.Drawing.Size, System.Drawing">
+    <value>805, 456</value>
+  </data>
+</root>
