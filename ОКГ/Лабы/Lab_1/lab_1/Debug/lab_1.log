@@ -1,0 +1,37 @@
+﻿Сборка начата 15.02.2023 19:58:41.
+Уровень детализации журнала: Normal.     1>Проект "D:\4 семестр\ОКГ\Лабы\Lab_1\lab_1\lab_1.vcxproj" в узле 2 (целевые объекты Build).
+     1>PrepareForBuild:
+         Создание каталога "Debug\lab_1.tlog\".
+       InitializeBuildStatus:
+         Создание "Debug\lab_1.tlog\unsuccessfulbuild", так как было задано "AlwaysCreate".
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.29.30133\bin\HostX86\x86\CL.exe /c /ZI /JMC /nologo /W3 /WX- /diagnostics:column /sdl /Od /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D _UNICODE /D UNICODE /D _AFXDLL /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Yc"pch.h" /Fp"Debug\lab_1.pch" /Fo"Debug\\" /Fd"Debug\vc142.pdb" /external:W3 /Gd /TP /analyze- /FC /errorReport:prompt pch.cpp
+         pch.cpp
+         C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.29.30133\bin\HostX86\x86\CL.exe /c /ZI /JMC /nologo /W3 /WX- /diagnostics:column /sdl /Od /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D _UNICODE /D UNICODE /D _AFXDLL /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Yu"pch.h" /Fp"Debug\lab_1.pch" /Fo"Debug\\" /Fd"Debug\vc142.pdb" /external:W3 /Gd /TP /analyze- /FC /errorReport:prompt ChildFrm.cpp lab_1.cpp lab_1Doc.cpp lab_1View.cpp MainFrm.cpp
+         ChildFrm.cpp
+         lab_1.cpp
+         lab_1Doc.cpp
+         lab_1View.cpp
+         MainFrm.cpp
+         Создание кода...
+       ResourceCompile:
+         C:\Program Files (x86)\Windows Kits\10\bin\10.0.19041.0\x86\rc.exe /D _DEBUG /D _UNICODE /D UNICODE /D _AFXDLL /l"0x0419" /IDebug\ /nologo /fo"Debug\lab1.res" lab1.rc 
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.29.30133\bin\HostX86\x86\link.exe /ERRORREPORT:PROMPT /OUT:"D:\4 семестр\ОКГ\Лабы\Lab_1\lab_1\Debug\lab_1.exe" /INCREMENTAL /ILK:"Debug\lab_1.ilk" /NOLOGO /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /manifestinput:"C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.29.30133\Include\Manifest\dpiaware.manifest" /DEBUG:FULL /PDB:"D:\4 семестр\ОКГ\Лабы\Lab_1\lab_1\Debug\lab_1.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /ENTRY:"wWinMainCRTStartup" /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\4 семестр\ОКГ\Лабы\Lab_1\lab_1\Debug\lab_1.lib" /MACHINE:X86 Debug\lab1.res
+         Debug\ChildFrm.obj
+         Debug\lab_1.obj
+         Debug\lab_1Doc.obj
+         Debug\lab_1View.obj
+         Debug\MainFrm.obj
+         Debug\pch.obj
+         lab_1.vcxproj -> D:\4 семестр\ОКГ\Лабы\Lab_1\lab_1\Debug\lab_1.exe
+       FinalizeBuildStatus:
+         Файл "Debug\lab_1.tlog\unsuccessfulbuild" удаляется.
+         Обращение к "Debug\lab_1.tlog\lab_1.lastbuildstate".
+     1>Сборка проекта "D:\4 семестр\ОКГ\Лабы\Lab_1\lab_1\lab_1.vcxproj" завершена (целевые объекты Build).
+
+Сборка успешно завершена.
+    Предупреждений: 0
+    Ошибок: 0
+
+Прошло времени 00:00:05.31
